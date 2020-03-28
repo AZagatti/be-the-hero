@@ -26,14 +26,14 @@
 </p>
 
 <p align="center">
-  <a href="#info-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
-## :info: About
+## ℹ About
 
 <div align="center">
 
@@ -119,7 +119,7 @@ First of all you need to have `node` and `yarn`(or `npm`) installed on your mach
 
 _If you decide to use npm don't forget to delete yarn.lock in folders_
 
-Então você pode clonar o repositório.
+Then you can clone the repository.
 
 `git clone https://github.com/azagatti/be-the-hero`
 
@@ -145,7 +145,7 @@ Starting the application with Expo.
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/AZagatti/challenge07-gostack10/blob/master/LICENSE.md) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/AZagatti/be-the-hero/blob/master/LICENSE.md) for more information.
 
 ---
 
