@@ -25,6 +25,12 @@
   </a>
 </p>
 
+<div align="center">
+
+  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fres.cloudinary.com%2Fzagatti%2Fraw%2Fupload%2Fv1585420593%2Fimsomnia%2Fbe-the-hero-insomnia_ls7cnl.json)
+
+</div>
+
 <p align="center">
   <a href="#ℹ-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
